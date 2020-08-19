@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InternalStorage</string>
+    <string name="txtFullname">Họ Tên</string>
+    <string name="txtPhoneNumber">Số Điện Thoại</string>
+    <string name="txtAddress">Địa Chỉ</string>
+    <string name="txtTittle">Danh sách đối tượng mới thêm </string>
+
+    <string name="btnSave">Lưu</string>
+    <string name="btnDelete">Xóa</string>
+    <string name="btnRead">Đọc danh sách mới thêm</string>
+</resources>
